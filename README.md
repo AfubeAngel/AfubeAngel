@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Angel Chinenye
 
-<!--
-**AfubeAngel/AfubeAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• [LinkedIn](https://www.linkedin.com/in/angel-afube/) • [GitHub](https://github.com/AfubeAngel)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Frontend Developer** and **Technical Writer** passionate about crafting responsive interfaces and clear documentation.  
+I enjoy turning complex systems into elegant, user-friendly experiences and sharing insights that help others grow.
+
+💡 My philosophy: *Build, document, and share—so others can learn faster than you did.*
+
+Outside of tech, I love journaling reflections, exploring faith-based writing, and capturing quiet everyday moments.
+
+---
+
+- 💼 Available for: Frontend Development • Technical Writing • Docs Audits  
+- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/angel-afube/) or via [email](mailto:angelchinenye@example.com)  
