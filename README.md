@@ -7,8 +7,6 @@
 I'm a **Frontend Developer** and **Technical Writer** passionate about crafting responsive interfaces and clear documentation.  
 I enjoy turning complex systems into elegant, user-friendly experiences and sharing insights that help others grow.
 
-💡 My philosophy: *Build, document, and share—so others can learn faster than you did.*
-
 Outside of tech, I love journaling reflections, exploring faith-based writing, and capturing quiet everyday moments.
 
 ---
