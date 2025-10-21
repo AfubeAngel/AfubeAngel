@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Angel Chinenye
+# 👋 Hi there, I'm Angel Afube
 
 • [LinkedIn](https://www.linkedin.com/in/angel-afube/) • [GitHub](https://github.com/AfubeAngel)
 
